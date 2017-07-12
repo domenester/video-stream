@@ -1,0 +1,22 @@
+{
+  "name": "video-stream",
+  "version": "1.0.0",
+  "description": "An API to manage vide streams.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domenester/video-stream.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Diogo Domene",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/domenester/video-stream/issues"
+  },
+  "homepage": "https://github.com/domenester/video-stream#readme"
+}
