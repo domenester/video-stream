@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/domenester/video-stream/issues"
   },
-  "homepage": "https://github.com/domenester/video-stream#readme"
+  "homepage": "https://github.com/domenester/video-stream#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "livecam": "^0.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
 }
